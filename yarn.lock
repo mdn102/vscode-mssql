@@ -115,10 +115,10 @@
   resolved "https://registry.yarnpkg.com/@types/underscore/-/underscore-1.8.3.tgz#d3cb512dd3dde32b2bbba4be0ca68bd3dad4a1f5"
   integrity sha512-DP70788BXjp9+CKArXOUlNkZaXa+rHonDpbqH3/74ez16dLL5z2/bMT37etbln5J+H9M07NbRUyduDIoTM2tnw==
 
-"@types/vscode@^1.45.0":
-  version "1.45.0"
-  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.45.0.tgz#8a07e740aa1ca7264da8cb17be87b733836d6c01"
-  integrity sha512-b0Gyir7sPBCqiKLygAhn/AYVfzWD+SMPkWltBrIuPEyTOxSU1wVApWY/FcxYO2EWTRacoubTl4+gvZf86RkecA==
+"@types/vscode@^1.46.0":
+  version "1.73.1"
+  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.73.1.tgz#f2b198dca65c693c4570475aca04a34ad773609d"
+  integrity sha512-eArfOrAoZVV+Ao9zQOCaFNaeXj4kTCD+bGS2gyNgIFZH9xVMuLMlRrEkhb22NyxycFWKV1UyTh03vhaVHmqVMg==
 
 abbrev@1:
   version "1.1.1"
@@ -1222,9 +1222,9 @@ decamelize@^1.0.0, decamelize@^1.1.1, decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-zip@^0.2.2:
   version "0.2.2"
